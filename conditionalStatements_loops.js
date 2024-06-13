@@ -141,11 +141,12 @@ do {
 while (l1 < 10)
     console.log(print)
  
-let12 = 1;
+let l2 = 1;
 let print2 = 0
-do { print2 += 12;12++} 
+do { print2 += l2;
+    l2++} 
 
-while (12 <= 100)
+while (l2 <= 100)
 
     console.log(print2);
  
